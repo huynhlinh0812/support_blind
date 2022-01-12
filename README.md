@@ -1,6 +1,7 @@
 --- Mã nguồn mở hỗ trợ người khiếm thị ---
 
 Về chúng tôi:
+
     _Huỳnh Quang Linh: https://www.facebook.com/hql.0812
     _Đặng Thành Tuấn: 
     
