@@ -1,0 +1,39 @@
+{"intents":
+	[
+		{
+			"tag": "greeting",
+			"patterns": ["xin chào", "chào cậu", "chào", "chào bạn", "hello", "hi"],
+			"responses": ["Hello"]
+		},
+		{
+			"tag": "comple",
+			"patterns": ["hoàn thành", "hoàng thành", "hòn thành", "hoèn thành", "sẵn sàng"],
+			"responses": ["2"]
+		},
+		{
+			"tag": "detect",
+			"patterns": ["phía trước có gì", "có gì ở phía trước", "đằng trước có gì", "có cái gì ở phía trước", "có cái gì ở đằng trước"],
+			"responses": ["1"]
+		},
+		{
+			"tag": "music",
+			"patterns": ["nghe nhạc", "âm nhạc", "tôi muốn nghe nhạc", "hãy bật cho tôi bản nhạc", "mình muốn nghe nhạc", "hãy bật cho tôi một bản nhạc"],
+			"responses": ["music"]
+		},
+		{
+			"tag": "send_mail",
+			"patterns": ["gửi gmail", "email", "gửi email", "gmail", "gửi mail", "mail"],
+			"responses": ["gmail"]
+		},
+
+		{
+			"tag": "bye",
+			"patterns": ["tạm biệt", "tắt", "chào tạm biệt", "tạm biệt bạn nhé","bye", "goodbye", "see you later"],
+			"responses": ["Goodbye"]
+		}
+
+
+	]
+
+
+}
