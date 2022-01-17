@@ -1,0 +1,3 @@
+Model được đào tạo dựa trên dữ liệu tự sưu tập và tự hoàn thành.
+Có thể nhận diện được 30 vật thể do chính dữ liệu tự train, mỗi class có trung bình 2000 tấm ảnh làm dữ liệu
+(Nổi trội là có thể nhận diện giá trị đồng tiền và các đối tượng hằng ngày thường gặp nhất
