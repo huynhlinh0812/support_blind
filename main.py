@@ -27,8 +27,8 @@ from time import strftime
 import pyttsx3
 from youtube_search import YoutubeSearch
 from collections import OrderedDict
-from recognition_text import rcg_text #mã nguồn tự xây dựng
-from detec_face_image import predict_gender #mã nguồn tự xây dựng
+from recognition_text import rcg_text
+from detec_face_image import predict_gender
 from recog_text_vgg16 import rcg_text_vgg16
 from twilio.rest import Client
 import googletrans
