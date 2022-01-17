@@ -7,3 +7,4 @@ Về chúng tôi:
     
     Là học sinh trường THPT Lương Thế Vinh tại thị trấn Kbang, Huyện Kbang, tỉnh Gia Lai
     
+Bản đầy đủ có cả model tại đây: https://drive.google.com/drive/folders/1TC87bCDJ6gWdo0vDGBxoS0l-_-PbKngT?usp=sharing
